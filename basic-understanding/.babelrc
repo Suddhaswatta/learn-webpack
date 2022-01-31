@@ -1,0 +1,5 @@
+    {
+        "presets": [ // Presets env handles transpilation . Example: Look for const and turn it into var .. turn arrow func to func
+            "@babel/preset-env"
+        ]
+    }
